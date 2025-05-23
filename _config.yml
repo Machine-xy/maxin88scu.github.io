@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Wei Ju's Homepage"
+title                    : "Xin Ma's Homepage"
 title_separator          : "-"
-name                     : &name "Wei Ju"
-description              : &description "PostDoc at Peking University"
-url                      : https://juweipku.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Xin Ma"
+description              : &description "Master at Sichuan University"
+url                      : https://maxin88scu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "juweipku/juweipku.github.io"
+repository               : "https://github.com/Machine-xy/maxin88scu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "juweipku"
+  github           : "https://github.com/Machine-xy"
   google_plus      :
   keybase          :
   instagram        :
