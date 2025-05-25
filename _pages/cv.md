@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<!-- {% include base_path %}
 
 Work Experience
 ======
@@ -18,6 +18,6 @@ Education
 ======
 * Ph.D in the School of Computer Science, Peking University, 2019 - 2022
 * M.S. in the School of Mathematical Science, Peking University, 2017 - 2019
-* B.S. in the School of Mathematics, Sichuan University, 2012 - 2017
+* B.S. in the School of Mathematics, Sichuan University, 2012 - 2017 -->
 
 

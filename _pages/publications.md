@@ -6,9 +6,9 @@ author_profile: true
 ---
 
 <!-- You can also find my articles on <u><a href="https://scholar.google.com/citations?user=pppQSXgAAAAJ&hl=en">my Google Scholar profile</a>.</u> -->
-(\* Equal Contribution)
+<!-- (\* Equal Contribution) -->
 
-2025
+<!-- 2025
 ====
 1.  *Cluster-guided Contrastive Class-imbalanced Graph Classification* [[Paper](https://arxiv.org/pdf/2412.12984)] <br>
 **Wei Ju**, Zhengyang Mao, Siyu Yi, Yifang Qin, Yiyang Gu, Zhiping Xiao, Jianhao Shen, Ziyue Qiao, Ming Zhang <br>
@@ -335,4 +335,4 @@ IEEE International Conference on Tools with Artificial Intelligence <br>
 1.  *Deep Supervised Hashing by Classification For Image Retrieval* [[Paper](../files/ICONIP-21.pdf)] <br>
 Xiao Luo, Yuhang Guo, Zeyu Ma, Tao Li, **Wei Ju**, Chong Chen, Minghua Deng <br>
 International Conference on Neural Information Processing <br>
-***ICONIP 2021, <span style="color:red">CCF-C</span>, <span style="color:orange">Oral Representation</span>***
+***ICONIP 2021, <span style="color:red">CCF-C</span>, <span style="color:orange">Oral Representation</span>*** -->

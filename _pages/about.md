@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Nice to meet you! I am Ma Xin. I have got my bachelor degree in Sichuan University major in computer science and technology during 2020 to 2024, and I'm gonna to study artificial intelligence (AI) further as a postgraduate student in Sichuan Uniersity.
+Nice to meet you! I am Ma Xin. I have got my bachelor degree in Sichuan University major in computer science and technology during 2020 to 2024, and I'm gonna to study artificial intelligence (AI) further as a postgraduate student in Sichuan University.
 
 **Research Intrests**:
 - Machine Learning
