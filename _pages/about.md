@@ -14,7 +14,13 @@ Nice to meet you! I am Ma Xin. I have got my bachelor degree in Sichuan Universi
 - Graph Neural Networks
 - AI4Sciense
 
-
+**Publications**
+-
+-  1.  *PALA: Class-imbalanced Graph Domain Adaptation via
+Prototype-anchored Learning and Alignment*<br>
+**Xin Ma**<sup>\*</sup>, Yifan Wang<sup>\*</sup>, Siyu Yi, Wei Ju, Bei Wu, Ziyue Qiao, Chenwei Tang, Jiancheng Lv <br>
+International Joint Conference on Artificial Intelligence <br>
+***IJCAI 2025, <span style="color:none">CCF-A</span>***
 
 
 
